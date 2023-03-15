@@ -97,4 +97,4 @@ src/components/` には特別なものはありませんが、Astro/React/Vue/Sv
 
 ## 👀 もっと学びたいですか？
 
-私たちのドキュメント](https://docs.astro.build)や[Discordサーバー](https://astro.build/chat)を参照してください。
+私たちのドキュメント](https://docs.astro.build)や[Discordサーバー](https://astro.build/chat)を参照してください。# pwd
